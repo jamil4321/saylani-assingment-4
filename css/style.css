@@ -1,0 +1,52 @@
+
+body{
+    overflow-x: hidden;
+}
+.nav-background{
+    background-color:rgba(214, 0, 0, 1) !important;
+}
+.nav-background .nav-link{
+    color: white !important;
+    transition: all ease-in 0.4s;
+   
+}
+.nav-background .nav-link:hover{
+    background-color:rgba(245, 20, 0, 0.74) !important;
+    border-radius: 25%;
+    color: black !important;
+}
+
+.service img{
+    width:200px;
+}
+.foteer{
+   margin-top: -50px;
+    padding-top: 20px; 
+    background-color: darkgray;
+    color: white;
+}
+.foteer-dark{
+    background-color: #9E9A99;
+    padding:15px 0px;
+    color: white;
+}
+#feature-produtcs{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.product{
+    margin-top: 30px;
+}
+.products {
+    margin-top:40px;
+    margin-bottom: 80px;
+}
+.order-from{
+    margin-top:40px;
+    margin-bottom: 80px;
+}
+.thankyou{
+    margin-top:40px;
+
+    height: 64vh;
+}
